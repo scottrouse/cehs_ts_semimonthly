@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the CEHS Timesheet Semi-Monthly feature.
+ */
+
+include_once 'cehs_ts_semimonthly.features.inc';
